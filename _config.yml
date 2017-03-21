@@ -1,3 +1,12 @@
-name: Hank Quinlan, Horrible Cop
+title: 'МИРЭА практика'
+name: 'BasePractice'
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+email: viruszold@gmail.com
+twitter_username: PastorOff
+github_username: Pastor
+bio: >
+  Developer.
+  Java, C/C++.
+gems:
+  - jekyll-paginate
